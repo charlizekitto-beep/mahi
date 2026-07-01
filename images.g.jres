@@ -1,0 +1,19 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAABERAAAAAAAAEREBAAAAAAAREQEAAAAAAAkQgQAAAAAAEJEBAAAAAAAIkQEAAAAAAAiRAQAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
+    "anim1": {
+        "namespace": "myAnimations",
+        "id": "anim1",
+        "mimeType": "application/mkcd-animation",
+        "data": "YzgwMDEwMDAxMDAwMDEwMDlhODllZTdlNTVlNGVlMjJhYWY5ZmZmZjU1ZmVmZmVlYWFmOTg4ZjdlNTVmNDRlZmFhZjk4ZmZmZTdmZmY0ZWZhYWZhZjlmOGU3NWY0ZmVmYWFmYWZmZmZlOGZmZmZlZmFjOWZmOTg5ZjhlZWVmZmVjY2ZhZjlmOTdmZWZlZjVmY2NhYWZmOGY4OGY3ZmY1NWMzYWFmYTg5ODg3ODdmNTUzM2FjZmE5OTg4ODg3Zjc3MzNhY2ZhOTk5OTg4N2Y3NzMzZmNmZmZmOTlmZmZmOGYzM2MzY2NhY2FhOWE4OTg4MzMzM2NjYWNhYTlhOTk5OTMzMzMzM2MzY2NjY2NjY2M=",
+        "displayName": "myAnim"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
